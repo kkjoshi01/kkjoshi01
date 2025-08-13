@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**kkjoshi01/kkjoshi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Keshav!
+Recent First Class Computer Science graduate
+<br>
+<br>
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/330px-LinkedIn_logo.svg.png)](https://www.linkedin.com/in/keshav-k-joshi)
+<br>
+Connect with me on LinkedIn!
+<br>
+```js
+class Me:
+	languages = ['python', 'javascript', 'java', 'ruby', 'kotlin', 'c', 'lua', 'html', 'css']
+	tools = ['node', 'gradle', 'react native', 'flask', 'react', 'redis', 'postgresql', 'docker', 'expo']
+	software = ['figma', 'vs code', 'android studio', 'tableau', 'blender', 'gcp', 'google firebase']
+```
